@@ -1,0 +1,10 @@
+D:\Majasdarbu 3 modula 3 uzdevums\bin\Debug\Majasdarbu 3 modula 3 uzdevums.exe.config
+D:\Majasdarbu 3 modula 3 uzdevums\bin\Debug\Majasdarbu 3 modula 3 uzdevums.exe
+D:\Majasdarbu 3 modula 3 uzdevums\bin\Debug\Majasdarbu 3 modula 3 uzdevums.pdb
+D:\Majasdarbu 3 modula 3 uzdevums\obj\Debug\Majasdarbu 3 modula 3 uzdevums.csproj.AssemblyReference.cache
+D:\Majasdarbu 3 modula 3 uzdevums\obj\Debug\Majasdarbu_3_modula_3_uzdevums.Form1.resources
+D:\Majasdarbu 3 modula 3 uzdevums\obj\Debug\Majasdarbu_3_modula_3_uzdevums.Properties.Resources.resources
+D:\Majasdarbu 3 modula 3 uzdevums\obj\Debug\Majasdarbu 3 modula 3 uzdevums.csproj.GenerateResource.cache
+D:\Majasdarbu 3 modula 3 uzdevums\obj\Debug\Majasdarbu 3 modula 3 uzdevums.csproj.CoreCompileInputs.cache
+D:\Majasdarbu 3 modula 3 uzdevums\obj\Debug\Majasdarbu 3 modula 3 uzdevums.exe
+D:\Majasdarbu 3 modula 3 uzdevums\obj\Debug\Majasdarbu 3 modula 3 uzdevums.pdb

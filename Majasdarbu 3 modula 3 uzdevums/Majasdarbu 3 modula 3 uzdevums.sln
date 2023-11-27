@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majasdarbu 3 modula 3 uzdevums", "Majasdarbu 3 modula 3 uzdevums.csproj", "{FAB8E6F1-B8CE-445F-B165-5E10EF5B193C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB8E6F1-B8CE-445F-B165-5E10EF5B193C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB8E6F1-B8CE-445F-B165-5E10EF5B193C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB8E6F1-B8CE-445F-B165-5E10EF5B193C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB8E6F1-B8CE-445F-B165-5E10EF5B193C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4EDA8D8-83C7-47EA-AD31-689C72D038FF}
+	EndGlobalSection
+EndGlobal
